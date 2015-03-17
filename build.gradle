@@ -44,7 +44,7 @@ dependencies {
 	compile 'org.projectlombok:lombok:$lombokVersion'
 	compile 'org.apache.directory.studio:org.apache.commons.lang:2.6'
 	compile 'org.springframework.data:spring-data-jpa:1.8.0.RC1'
-	compile 'org.springfraework.boot:spring-boot-starter-data-jap'
+	compile 'org.springframework.boot:spring-boot-starter-data-jpa'
 	compile 'mysql:mysql-connector-java:5.1.26'
 	
 	
